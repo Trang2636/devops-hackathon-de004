@@ -1,10 +1,8 @@
-# DevOps Hackathon – Đề 001: Quản lý phòng Lab
-
 ## 1. Thông tin sinh viên
 
 | Họ và tên          | Mã sinh viên | Lớp       | Tài khoản Linux | GitHub                      | Cổng Nginx |
 |--------------------|--|-----------|-----------------|-----------------------------|------------|
-| Trần Thị Thu Trang |  | K24-CNTT2 | `Trang`         | `trangmaria123499@gmail.com | `8081`     |
+| Trần Thị Thu Trang |  | K24-CNTT2 | `Trang`         | `https://github.com/Trang2636/devops-hackathon-de004` | `8081`     |
 
 ## 2. Môi trường triển khai
 
